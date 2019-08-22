@@ -1,0 +1,2 @@
+(global["webpackJsonp"] = global["webpackJsonp"] || []).push([["pages/tabBar/API/API"],[],[[34,"common/runtime","common/vendor"]]]);
+//# sourceMappingURL=../../../../.sourcemap/mp-weixin/pages/tabBar/API/API.js.map

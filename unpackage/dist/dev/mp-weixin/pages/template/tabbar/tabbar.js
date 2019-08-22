@@ -1,0 +1,2 @@
+(global["webpackJsonp"] = global["webpackJsonp"] || []).push([["pages/template/tabbar/tabbar"],[],[[545,"common/runtime","common/vendor"]]]);
+//# sourceMappingURL=../../../../.sourcemap/mp-weixin/pages/template/tabbar/tabbar.js.map
